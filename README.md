@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Kumar</h1>
-<h3 align="center">A passionate learner from India. Who want to learn most of the interested thing.</h3>
+<h3 align="center">A passionate learner from India. Who want to learn most of the interested things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techydev&label=Profile%20views&color=0e75b6&style=flat" alt="techydev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techydev" alt="techydev" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End and DSA**
 
